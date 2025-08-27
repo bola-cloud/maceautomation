@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>@yield("title", 'UAE\'s #1 Rolling Shutter Suppliers | Leaders in Roller Shutter Door')</title>
+    <title>@yield("title", 'Mace Automation')</title>
 
     <meta name="google-site-verification" content="wxPbchaiVF2btLHd1FIf1UtwWSlX7WoUX3eZ8KJa8ew" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="keywords" content="Galvanized Steel Rolling Shutter, Dubai shop shutter, Insulated Aluminum Rolling Shutter Door, Polycarbonate Rolling Shutter Door, High Speed Doors, Rollup Doors, Industrial Doors, Garage Doors">
+    <meta name="keywords" content="Revolving Doors Saudi Arabian, Automatic Revolving Doors, Entrance Automation KSA, Mace Automation, High-Security Entry Systems, Sliding Doors, Swing Doors, Automatic Door Solutions, Commercial Building Access, Smart Access Doors">
 
-    <meta name="description" content="@yield('desc', 'Galvanized Steel Rolling Shutter Dubai, shop shutter, Insulated Aluminum & Polycarbonate Rolling Shutter Door, High Speed, Rollup & Industrial Doors, Garage Doors')">
+    <meta name="description" content="@yield('desc', 'Mace Automation provides premium revolving doors and entrance automation solutions in Dubai and across the UAE. We specialize in secure, energy-efficient, and elegant access systems for commercial and public buildings.')">
 
     <link rel="canonical" href="{{ url()->current() }}">
     <!-- Favicon -->
@@ -35,8 +35,8 @@
     <!-- Template Stylesheet -->
     <link href="{{ asset('user/css/style.css') }}" rel="stylesheet">
     @livewireStyles
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -63,10 +63,11 @@
     margin-bottom: 8px;
 }
 img.Company_Logo {
-    height: 93px !important;
+    height: 75px !important;
     width: 84px;
     background: white;
     border-radius: 10px;
+    margin-left: 20px
 }
 .container-xxxl.py-5 {
     width: 97%;
@@ -85,10 +86,10 @@ img.Company_Logo {
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top p-0">
         <a href="{{route('home_user')}}" class="navbar-brand bg-primary d-flex align-items-center justify-content-between px-1   px-lg-5">
             <div class="d-flex flex-column align-items-start">
-                <h2 class="mb-2 text-white">ROLLING SHUTTER</h2>
-                <span class="text-white" style="font-size: 0.75em;">MPGT Leaders in Rolling Shutters</span>
+                <h2 class="mb-2 text-white">Mace Automation</h2>
+                <span class="text-white" style="font-size: 0.75em;">Mace Leaders in Automation</span>
             </div>
-            <img  class="Company_Logo" src="{{ asset('logo/logo.png') }}" alt="" style="height: 50px;">
+            <img  class="Company_Logo" src="{{ asset('logo/mace.jpeg') }}" alt="" style="height: 50px;">
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -100,7 +101,9 @@ img.Company_Logo {
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="{{ route('home_user') }}" class="nav-item nav-link {{ Request::routeIs('home_user') ? 'active' : '' }}">Home</a>
                 <a href="{{ route('about') }}" class="nav-item nav-link {{ Request::routeIs('about') ? 'active' : '' }}">About</a>
-                <a href="{{ route('service') }}" class="nav-item nav-link {{ Request::routeIs('service') ? 'active' : '' }}">Shutters</a>
+                <a href="{{ route('service') }}" class="nav-item nav-link {{ Request::routeIs('service') ? 'active' : '' }}">Services</a>
+                <a href="{{ route('retrofit') }}" class="nav-item nav-link {{ Request::routeIs('retrofit') ? 'active' : '' }}">Retrofit</a>
+                <a href="{{ route('integration') }}" class="nav-item nav-link {{ Request::routeIs('integration') ? 'active' : '' }}">Integration</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Repair Services</a>
                     <div class="dropdown-menu fade-up m-0">
@@ -112,8 +115,8 @@ img.Company_Logo {
                 <a href="{{ route('contact') }}" class="nav-item nav-link {{ Request::routeIs('contact') ? 'active' : '' }}">Contact</a>
             </div>
             <div class="d-none d-lg-block pe-lg-5">
-                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-phone text-primary me-3" aria-hidden="true"></i>+971 504719620</h4>
-                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-envelope text-primary me-3" aria-hidden="true"></i>info@rollingshutter.ae</h4>
+                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-phone text-primary me-3" aria-hidden="true"></i>+971 99999999</h4>
+                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-envelope text-primary me-3" aria-hidden="true"></i>info@example.com</h4>
             </div>
         </div>
     </nav>
@@ -130,20 +133,30 @@ img.Company_Logo {
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Address</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Dubai - al barsha 1 - B8 Building - Office No. 501
+                    <p class="mb-2">
+                        <i class="fa fa-map-marker-alt me-3"></i>
+                        Office 101, Business Center, Riyadh, KSA
                     </p>
-                  
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+971 504719620</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@rollingshutter.ae</p>
+
+                    <p class="mb-2">
+                        <i class="fa fa-phone-alt me-3"></i>
+                        +971 99999999
+                    </p>
+
+                    <p class="mb-2">
+                        <i class="fa fa-envelope me-3"></i>
+                        contact@maceautomation.com
+                    </p>
+
                     <div class="d-flex pt-2">
-                        {{-- <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a> --}}
-                        <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/profile.php?id=61560394915571"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/rollingshutterservice?igsh=d3I3Nnd5cXpramgy"><i class="fa-brands fa-instagram"></i></a>
-                        {{-- <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a> --}}
+                        <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="#"><i class="fa-brands fa-instagram"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
+
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-light mb-4">Rolling Shutters </h4>
+                    <h4 class="text-light mb-4">Mace Automation </h4>
 
                     @foreach ($shutters->take(5) as $shutter)
                         <a class="btn btn-link" href="{{ route('specific-shutter', ['slug' => Str::slug($shutter->name)]) }}">{{ $shutter->name }}</a>
@@ -158,7 +171,7 @@ img.Company_Logo {
                     <a class="btn btn-link" href="{{route('contact')}}">Contact</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-light mb-4">Rolling Shutters </h4>
+                    <h4 class="text-light mb-4">Services</h4>
                     @php
                     $latestShutters = $shutters->sortByDesc('created_at')->take(5);
                 @endphp
@@ -176,11 +189,10 @@ img.Company_Logo {
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Rolling Shutter</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">Mace Automation</a>, All Rights Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By <a class="border-bottom" href="https://mptstech.com/">MPTS TECH</a>
+                        Designed by <a class="border-bottom" href="https://www.portfolio.infinitsmart.com/">Infinit Smart</a>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF3E41;
+    --primary: #0a0a4d;
     --secondary: #51CFED;
     --light: #F8F2F0;
     --dark: #060315;
@@ -479,4 +479,19 @@ h4.m-0.pe-lg-5.d-none.d-lg-block {
 
 .footer .copyright a {
     color: var(--light);
+}
+
+@media (max-width: 990px) {
+    .navbar-light .navbar-brand, .navbar-light a.btn  {
+        width: 100%;
+        margin: 0;
+    }
+}
+@media (max-width: 450px) {
+    .image-grid {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 }

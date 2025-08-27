@@ -8,7 +8,8 @@ use App\Livewire\User\ServiceComponent; // Note the correct namespace
 use App\Livewire\User\ContactComponent; // Note the correct namespace
 use App\Livewire\User\SpecificShutterComponent; // Note the correct namespace
 
-
+use App\Livewire\User\RetrofitComponent; // Note the correct namespace
+use App\Livewire\User\IntegrationComponent; // Note the correct namespace
 
 use App\Http\Controllers\Seo\Sitemapcontroller;
 
@@ -26,12 +27,15 @@ use App\Livewire\Admin\CategoryPhotoList;
 
 use App\Livewire\Admin\QuoteComponent;
 
+
 //seo
 Route::get('sitemap.xml',[Sitemapcontroller::class,'index']);
 
 
 Route::get('/', HomeComponent::class)->name('home_user');
 Route::get('/about', AboutComponent::class)->name('about');
+Route::get('/retrofit', RetrofitComponent::class)->name('retrofit');
+Route::get('/integration', IntegrationComponent::class)->name('integration');
 Route::get('/shutters', ServiceComponent::class)->name('service');
 Route::get('/contact', ContactComponent::class)->name('contact');
 Route::get('/rollingshutter/{slug}', SpecificShutterComponent::class)->name('specific-shutter');

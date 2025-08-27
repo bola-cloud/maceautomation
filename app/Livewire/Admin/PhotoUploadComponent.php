@@ -17,13 +17,13 @@ class PhotoUploadComponent extends Component
     public function submit()
     {
         $this->validate([
-            'photos.*' => 'image|max:2024', // 1MB Max
-
+            'photos.*' => 'image|max:2024', // 2MB Max
         ]);
 
         foreach ($this->photos as $photo) {
-            $path = $photo->store('photos', 'public');
-
+            // Store in storage/app/photos (not public)
+            $path = $photo->store('photos', 'public'); // stores in storage/app/public/photos
+            // dd($path);
             ShutterPhotos::create([
                 'shutter_id' => $this->shutterId,
                 'category_id' => $this->categoryId,

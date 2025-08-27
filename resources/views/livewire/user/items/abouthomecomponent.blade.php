@@ -32,8 +32,8 @@
                     <div class="d-flex mb-0 wow fadeInUp" data-wow-delay="0.7s">
                         <i class="fa fa-headphones text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
-                            <h5>24/7 Telephone Support</h5>
-                            <p class="mb-0">Our well-qualified technical experts are always ready to serve 24/7 services in UAE, Middle East & Africa. We offer the cheapest price guaranteed. Call us at +971 50 471 9620.</p>
+                            <h5>Telephone Support</h5>
+                            <p class="mb-0">Our well-qualified technical experts are always ready to serve services in UAE, Middle East & Africa. We offer the cheapest price guaranteed. Call us at +971 50 471 9620.</p>
                         </div>
                     </div>
 
@@ -42,12 +42,12 @@
                     <h6 class="text-secondary text-uppercase mb-3">About Us</h6>
 
                     <p class="mb-5">
-                        MPGT shutter door has been producing rolling shutters door .
+                        Mace automation shutter door has been producing rolling shutters door .
                          Our shutter doors are made with roll formed galvanize and aluminum with a foam core or extruded aluminum.
                          We use powder coated extrusions,
                          polyurethane coated slat and stainless hardware for a long lasting product that protects from heat,
                          wind, cold, leaks, noise, fading, breakage and intruders. we never compromise on quality.
-                         With the extensive range of MPGT  Rolling Shutters  & Shutter Door,
+                         With the extensive range of Mace automation  Rolling Shutters  & Shutter Door,
                           there is no shortage of optimal solutions that meet all demands for Automatic Rolling Shutter Door.
                           4 Get Site Visit Within 1 Hour.We Have Cheapest Price Guaranteed. Security Roller Shutter Door with free consultation,
                           fastest service of rolling shutters door.

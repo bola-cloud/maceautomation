@@ -1,49 +1,49 @@
 <div>
     <style>
         .owl-carousel-item {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 Aspect Ratio */
-}
+            position: relative;
+            width: 100%;
+            height: 700px; /* or 100vh for full screen height */
+            overflow: hidden;
+        }
 
-.owl-carousel-item img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Ensures the image covers the container while maintaining aspect ratio */
-}
-.owl-stage-outer {
-    height: 700PX;
-}
-.position-absolute {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+        .owl-carousel-item img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
 
-@media (max-width: 768px) {
-    .display-3 {
-        font-size: 2.5rem;
-    }
+        .owl-stage-outer {
+            height: 700PX;
+        }
+        .position-absolute {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
 
-    .fs-5 {
-        font-size: 1rem;
-    }
+        @media (max-width: 768px) {
+            .display-3 {
+                font-size: 2.5rem;
+            }
 
-    .btn {
-        padding: 0.5rem 1rem;
-    }
-}
+            .fs-5 {
+                font-size: 1rem;
+            }
+
+            .btn {
+                padding: 0.5rem 1rem;
+            }
+        }
     </style>
     <div class="container-fluid p-0 pb-5">
         <div class="owl-carousel header-carousel position-relative mb-5">
             @foreach($shutters as $shutter)
                 @foreach($shutter->photos as $photo)
                     <div class="owl-carousel-item position-relative">
-                        <img class="img-fluid" src="{{Storage::url(basename($photo->image_url)) }}" alt="{{ $shutter->name }}">
+                        <img class="img-fluid" src="{{ Storage::url($photo->image_url) }}" alt="{{ $shutter->name }}">
                         <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);">
                             <div class="container">
                                 <div class="row justify-content-start">

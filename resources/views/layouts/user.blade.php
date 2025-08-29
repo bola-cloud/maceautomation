@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>@yield("title", 'Mace Automation')</title>
+    <title>@yield("title", 'Sliding Doors')</title>
 
     <meta name="google-site-verification" content="wxPbchaiVF2btLHd1FIf1UtwWSlX7WoUX3eZ8KJa8ew" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="keywords" content="Revolving Doors Saudi Arabian, Automatic Revolving Doors, Entrance Automation KSA, Mace Automation, High-Security Entry Systems, Sliding Doors, Swing Doors, Automatic Door Solutions, Commercial Building Access, Smart Access Doors">
+    <meta name="keywords" content="Revolving Doors Saudi Arabian, Automatic Revolving Doors, Entrance Automation KSA, Sliding Doors, High-Security Entry Systems, Sliding Doors, Swing Doors, Automatic Door Solutions, Commercial Building Access, Smart Access Doors">
 
-    <meta name="description" content="@yield('desc', 'Mace Automation provides premium revolving doors and entrance automation solutions in Dubai and across the UAE. We specialize in secure, energy-efficient, and elegant access systems for commercial and public buildings.')">
+    <meta name="description" content="@yield('desc', 'Sliding Doors provides premium revolving doors and entrance automation solutions in Dubai and across the UAE. We specialize in secure, energy-efficient, and elegant access systems for commercial and public buildings.')">
 
     <link rel="canonical" href="{{ url()->current() }}">
     <!-- Favicon -->
@@ -86,7 +86,7 @@ img.Company_Logo {
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top p-0">
         <a href="{{route('home_user')}}" class="navbar-brand bg-primary d-flex align-items-center justify-content-between px-1   px-lg-5">
             <div class="d-flex flex-column align-items-start">
-                <h2 class="mb-2 text-white">Mace Automation</h2>
+                <h2 class="mb-2 text-white">Sliding Doors</h2>
                 <span class="text-white" style="font-size: 0.75em;">Mace Leaders in Automation</span>
             </div>
             <img  class="Company_Logo" src="{{ asset('logo/mace.jpeg') }}" alt="" style="height: 50px;">
@@ -156,7 +156,7 @@ img.Company_Logo {
                 </div>
 
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-light mb-4">Mace Automation </h4>
+                    <h4 class="text-light mb-4">Sliding Doors </h4>
 
                     @foreach ($shutters->take(5) as $shutter)
                         <a class="btn btn-link" href="{{ route('specific-shutter', ['slug' => Str::slug($shutter->name)]) }}">{{ $shutter->name }}</a>
@@ -189,7 +189,7 @@ img.Company_Logo {
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Mace Automation</a>, All Rights Reserved.
+                        &copy; <a class="border-bottom" href="#">Sliding Doors</a>, All Rights Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         Designed by <a class="border-bottom" href="https://www.portfolio.infinitsmart.com/">Infinit Smart</a>

@@ -65,7 +65,7 @@
                     <div class="et_pb_text_inner">
                         <p style="text-align: justify;">
                             <span style="font-weight: normal;">
-                                <strong>Mace Automation</strong> is a leading provider of high-end entrance automation systems across the UAE. We specialize in the design, supply, and installation of <strong>Revolving Doors</strong> that enhance building security, energy efficiency, and architectural beauty. Trusted by commercial properties, government institutions, and high-traffic public venues, our solutions are engineered to meet the most demanding access requirements.
+                                <strong>Sliding Doors</strong> is a leading provider of high-end entrance automation systems across the UAE. We specialize in the design, supply, and installation of <strong>Revolving Doors</strong> that enhance building security, energy efficiency, and architectural beauty. Trusted by commercial properties, government institutions, and high-traffic public venues, our solutions are engineered to meet the most demanding access requirements.
                             </span>
                         </p>
 
@@ -108,7 +108,7 @@
                         </ol>
 
                         <p style="text-align: justify;">
-                            Mace Automation continues to lead the region in delivering cutting-edge, fully integrated automation solutions tailored to modern buildings. Whether it’s a luxury hotel, a corporate headquarters, or a government facility—we offer reliable systems with fast service and unmatched expertise.
+                            Sliding Doors continues to lead the region in delivering cutting-edge, fully integrated automation solutions tailored to modern buildings. Whether it’s a luxury hotel, a corporate headquarters, or a government facility—we offer reliable systems with fast service and unmatched expertise.
                         </p>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                 <div class="et_pb_module et_pb_code et_pb_code_0">
                     <div class="et_pb_code_inner">
                         <h1 style="text-align:center; font-size:5px; color:white;">
-                            Mace Automation – Leading Revolving Door & Access Solution Provider in Dubai
+                            Sliding Doors – Leading Revolving Door & Access Solution Provider in Dubai
                         </h1>
                     </div>
                 </div>

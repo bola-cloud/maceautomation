@@ -34,7 +34,7 @@
                         <div class="ms-4">
                             <h5>Superior Product Standards</h5>
                             <p class="mb-0">
-                                As an ISO 9001:2015 certified company, Mace Automation ensures premium revolving door systems built for performance, durability, and compliance with international standards—supported by long-term warranties and trusted materials.
+                                As an ISO 9001:2015 certified company, Sliding Doors ensures premium revolving door systems built for performance, durability, and compliance with international standards—supported by long-term warranties and trusted materials.
                             </p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                     <h6 class="text-secondary text-uppercase mb-3">Our Mission & Values</h6>
 
                     <p class="mb-5">
-                        At <strong>Mace Automation</strong>, our mission is to deliver cutting-edge entry systems—especially high-performance <strong>Revolving Doors</strong>—that blend functionality, safety, and architectural elegance. We are committed to engineering solutions that optimize user flow, preserve energy, and elevate building aesthetics.
+                        At <strong>Sliding Doors</strong>, our mission is to deliver cutting-edge entry systems—especially high-performance <strong>Revolving Doors</strong>—that blend functionality, safety, and architectural elegance. We are committed to engineering solutions that optimize user flow, preserve energy, and elevate building aesthetics.
                         <br><br>
                         Our revolving doors are manufactured using top-tier stainless steel, aluminium, and safety glass. Designed with precision, they offer resistance to heat, wind, and weather while maintaining quiet, efficient rotation. We proudly customize each unit with premium finishes including Jotun RAL powder coatings, and provide optional add-ons such as air curtains, access control integration, and emergency break-out systems.
                         <br><br>

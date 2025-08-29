@@ -42,12 +42,12 @@
                     <h6 class="text-secondary text-uppercase mb-3">About Us</h6>
 
                     <p class="mb-5">
-                        Mace automation shutter door has been producing rolling shutters door .
+                        Sliding Doors shutter door has been producing rolling shutters door .
                          Our shutter doors are made with roll formed galvanize and aluminum with a foam core or extruded aluminum.
                          We use powder coated extrusions,
                          polyurethane coated slat and stainless hardware for a long lasting product that protects from heat,
                          wind, cold, leaks, noise, fading, breakage and intruders. we never compromise on quality.
-                         With the extensive range of Mace automation  Rolling Shutters  & Shutter Door,
+                         With the extensive range of Sliding Doors  Rolling Shutters  & Shutter Door,
                           there is no shortage of optimal solutions that meet all demands for Automatic Rolling Shutter Door.
                           4 Get Site Visit Within 1 Hour.We Have Cheapest Price Guaranteed. Security Roller Shutter Door with free consultation,
                           fastest service of rolling shutters door.

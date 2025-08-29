@@ -44,7 +44,7 @@
     <div class="row mb-5 align-items-center">
         <div class="col-md-6">
             <p>Is your revolving door outdated, inefficient, or not meeting today's safety and accessibility standards? Retrofitting is the smart, cost-effective solution to upgrade your existing revolving door without a full replacement.</p>
-            <p><strong>MACE AUTOMATION</strong> specializes in retrofitting revolving doors for commercial, institutional, and hospitality properties. Whether you're looking to improve energy efficiency, upgrade aesthetics, integrate modern access control, or meet current building codes, our expert team delivers tailored solutions that extend the life of your entry systems.</p>
+            <p><strong>Sliding Doors</strong> specializes in retrofitting revolving doors for commercial, institutional, and hospitality properties. Whether you're looking to improve energy efficiency, upgrade aesthetics, integrate modern access control, or meet current building codes, our expert team delivers tailored solutions that extend the life of your entry systems.</p>
         </div>
         <div class="col-md-6 d-flex flex-wrap justify-content-center">
             <img src="{{ asset('images/retrofit-1.jpeg') }}" alt="Retrofit Image 1" class="img-fluid rounded m-2">

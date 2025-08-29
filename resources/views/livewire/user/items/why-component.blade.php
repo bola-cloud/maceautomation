@@ -28,7 +28,7 @@
     <div class="container py-5">
         <h2 class="text-center mb-4">Why Choose Us</h2>
         <p class="text-center mb-5">
-            At <strong>Mace Automation</strong>, we’re proud to be pioneers in the region—the first company to manufacture revolving doors in the Arab world and the Middle East. Our comprehensive product range includes <strong>Revolving Doors</strong>, <strong>Swing Doors</strong>, <strong>Sliding Doors</strong>, and <strong>Speed Lane Security Turnstiles</strong>, all designed for durability, precision, and long-term performance. <br><br>
+            At <strong>Sliding Doors</strong>, we’re proud to be pioneers in the region—the first company to manufacture revolving doors in the Arab world and the Middle East. Our comprehensive product range includes <strong>Revolving Doors</strong>, <strong>Swing Doors</strong>, <strong>Sliding Doors</strong>, and <strong>Speed Lane Security Turnstiles</strong>, all designed for durability, precision, and long-term performance. <br><br>
             We combine premium quality with competitive pricing, ensuring top-tier engineering without the high cost. With fast access to spare parts and responsive support, our clients enjoy reliable service long after installation. Operating in both Egypt and Saudi Arabia, our presence is strong and growing, driven by a global vision. That’s why major industry leaders trust us for projects where security, efficiency, and design matter most.
         </p>
 
@@ -63,7 +63,7 @@
                         <i class="fa fa-headset feature-icon"></i>
                         <h5 class="mb-3"> Technical Support</h5>
                         <p>
-                            Mace Automation provides  support and consultation to ensure all systems run smoothly with minimal downtime, backed by trained specialists.
+                            Sliding Doors provides  support and consultation to ensure all systems run smoothly with minimal downtime, backed by trained specialists.
                         </p>
                     </div>
                 </div>

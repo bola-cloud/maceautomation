@@ -56,3 +56,9 @@ Route::get('/admin/quote-inquire',QuoteComponent::class)->name('quote_inquire');
 Route::get('/admin/add-category-photo-shutter', AddCategoryphoto::class)->name('add_cartegory_photo');
 Route::get('/admin/shutter-photos/{shutterId}', PhotoListPage::class)->name('photo-list');
 Route::get('/admin/shutter-photos/edit/{photoId}', EditPhoto::class)->name('edit-photo');
+
+// Temporary debug route - remove after confirming DB
+use Illuminate\Support\Facades\DB;
+Route::get('/debug-db', function () {
+	return response()->json(["database" => DB::connection()->getDatabaseName()]);
+});

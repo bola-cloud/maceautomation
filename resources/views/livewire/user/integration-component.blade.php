@@ -41,14 +41,14 @@
 
 <div class="container py-5 integration-section">
     <div class="text-center mb-5">
-        <h1 class="display-5">MACE Automation Interface I/O</h1>
+        <h1 class="display-5">Sliding Doors Interface I/O</h1>
         <p class="lead">Powerful BMS Integration for Seamless Building Intelligence</p>
         <img src="{{ asset('images/integration-banner.jpeg') }}" alt="Building Management System Integration" class="img-fluid m-3">
         <img src="{{ asset('images/integration-banner2.jpeg') }}" alt="Building Management System Integration" class="img-fluid m-3">
     </div>
 
     <p>
-        The <strong>MACE Automation Interface I/O</strong> provides seamless integration with Building Management Systems (BMS), enabling real-time control, status feedback, and alarm monitoring across a wide range of building subsystems. Designed with flexibility, scalability, and interoperability in mind, our interface module ensures your automated entrance systems can fully integrate with other smart infrastructure components within modern buildings.
+        The <strong>Sliding Doors Interface I/O</strong> provides seamless integration with Building Management Systems (BMS), enabling real-time control, status feedback, and alarm monitoring across a wide range of building subsystems. Designed with flexibility, scalability, and interoperability in mind, our interface module ensures your automated entrance systems can fully integrate with other smart infrastructure components within modern buildings.
     </p>
 
     <h3>Key Features</h3>

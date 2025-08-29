@@ -91,7 +91,7 @@
 
                         <p style="text-align: justify;">
                             <span style="font-weight: normal;">
-                                <strong>Mace Automation</strong> is a leading provider of advanced entry systems and automation solutions across Dubai and the UAE. We specialize in the design, supply, and installation of state-of-the-art <strong>Revolving Doors</strong>—engineered to enhance security, efficiency, and architectural appeal in commercial and public spaces.
+                                <strong>Sliding Doors</strong> is a leading provider of advanced entry systems and automation solutions across Dubai and the UAE. We specialize in the design, supply, and installation of state-of-the-art <strong>Revolving Doors</strong>—engineered to enhance security, efficiency, and architectural appeal in commercial and public spaces.
                             </span>
                         </p>
 
@@ -134,7 +134,7 @@
                         </ol>
 
                         <p style="text-align: justify;">
-                            With fast response times, expert installation, and a commitment to service excellence, Mace Automation continues to lead the way in building automation in Dubai. Contact us for a free consultation and explore how our revolving door solutions can elevate your project.
+                            With fast response times, expert installation, and a commitment to service excellence, Sliding Doors continues to lead the way in building automation in Dubai. Contact us for a free consultation and explore how our revolving door solutions can elevate your project.
                         </p>
 
                     </div>
@@ -143,7 +143,7 @@
                 <div class="et_pb_module et_pb_code et_pb_code_0">
                     <div class="et_pb_code_inner">
                         <h1 style="text-align:center; font-size:5px; color:white;">
-                            Revolving Door Supplier Dubai – Mace Automation
+                            Revolving Door Supplier Dubai – Sliding Doors
                         </h1>
                     </div>
                 </div>

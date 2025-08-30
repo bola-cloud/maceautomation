@@ -6,31 +6,57 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>@yield('title', 'Sliding Doors — Automatic & Commercial Sliding Door Solutions')</title>
 
-        <meta name="google-site-verification" content="wxPbchaiVF2btLHd1FIf1UtwWSlX7WoUX3eZ8KJa8ew" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta name="keywords" content="sliding doors, automatic sliding doors, commercial sliding doors, glass sliding doors, automatic entrance doors, sliding door suppliers, sliding door installation, sliding door repair, sliding door retrofit, storefront sliding doors, energy-efficient entrance doors, access control integration, safety sensors">
+    <meta name="google-site-verification" content="wxPbchaiVF2btLHd1FIf1UtwWSlX7WoUX3eZ8KJa8ew" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="robots" content="index,follow">
+    <meta name="author" content="Sliding Doors">
+    <meta name="keywords" content="sliding doors, automatic sliding doors, commercial sliding doors, glass sliding doors, automatic entrance doors, sliding door suppliers, sliding door installation, sliding door repair, sliding door retrofit, storefront sliding doors, energy-efficient entrance doors, access control integration, safety sensors">
 
-        <meta name="description" content="@yield('desc', 'Sliding Doors provides automatic and commercial sliding door solutions. We offer supply, installation, retrofit, maintenance and repair services for sliding and entrance automation systems. Trusted for performance, safety, and energy efficiency.')">
+    <meta name="description" content="@yield('desc', 'Sliding Doors supplies, installs and maintains high-performance automatic sliding door systems for commercial and retail buildings. We specialise in bespoke entrance solutions, retrofit projects, access control integration, and responsive maintenance.')">
 
         <!-- Open Graph / Social -->
-        <meta property="og:title" content="@yield('title', 'Sliding Doors — Automatic & Commercial Sliding Door Solutions')" />
-        <meta property="og:description" content="@yield('desc', 'Sliding Doors provides automatic and commercial sliding door solutions. We offer supply, installation, retrofit, maintenance and repair services for sliding and entrance automation systems.')" />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="{{ url()->current() }}" />
-        <meta property="og:image" content="{{ asset('logo/logo.png') }}" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="@yield('title', 'Sliding Doors — Automatic & Commercial Sliding Door Solutions')" />
-        <meta name="twitter:description" content="@yield('desc', 'Sliding Doors provides automatic and commercial sliding door solutions. We offer supply, installation, retrofit, maintenance and repair services for sliding and entrance automation systems.')" />
+    <meta property="og:title" content="@yield('title', 'Sliding Doors — Automatic Entrance Solutions')" />
+    <meta property="og:description" content="@yield('desc', 'Sliding Doors supplies, installs and maintains high-performance automatic sliding door systems for commercial and retail buildings.')" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ url()->current() }}" />
+    <meta property="og:image" content="{{ $ogImage ?? asset('logo/og-image.png') }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="@yield('title', 'Sliding Doors — Automatic Entrance Solutions')" />
+    <meta name="twitter:description" content="@yield('desc', 'Sliding Doors supplies, installs and maintains high-performance automatic sliding door systems for commercial and retail buildings.')" />
+    <meta name="twitter:image" content="{{ $ogImage ?? asset('logo/og-image.png') }}" />
+
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ url('sitemap.xml') }}">
 
         <!-- Structured Data -->
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Sliding Doors",
-            "url": "{{ url('/') }}",
-            "logo": "{{ asset('logo/logo.png') }}",
-            "sameAs": []
+            "@graph": [
+                {
+                    "@type": "Organization",
+                    "name": "Sliding Doors",
+                    "url": "{{ url('/') }}",
+                    "logo": "{{ asset('logo/logo.png') }}",
+                    "contactPoint": [
+                        {
+                            "@type": "ContactPoint",
+                            "telephone": "+20 15 54923541",
+                            "contactType": "customer service",
+                            "email": "inifintesmart@gmail.com"
+                        }
+                    ],
+                    "sameAs": []
+                },
+                {
+                    "@type": "WebSite",
+                    "url": "{{ url('/') }}",
+                    "potentialAction": {
+                        "@type": "SearchAction",
+                        "target": "{{ url('/search?query={search_term_string}') }}",
+                        "query-input": "required name=search_term_string"
+                    }
+                }
+            ]
         }
         </script>
 

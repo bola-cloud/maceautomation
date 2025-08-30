@@ -47,8 +47,8 @@
             <p><strong>Sliding Doors</strong> specializes in retrofitting sliding doors for commercial, institutional, and hospitality properties. Whether you're looking to improve energy efficiency, upgrade aesthetics, integrate modern access control, or meet current building codes, our expert team delivers tailored solutions that extend the life of your entry systems.</p>
         </div>
         <div class="col-md-6 d-flex flex-wrap justify-content-center">
-            <img src="{{ asset('storage/photos/sliding door.jpg') }}" alt="Retrofit Image 1" class="img-fluid rounded m-2">
-            <img src="{{ asset('storage/photos/sliding door 2.jpg') }}" alt="Retrofit Image 2" class="img-fluid rounded m-2">
+            <img src="{{ asset('images/sliding door.jpg') }}" alt="Retrofit Image 1" class="img-fluid rounded m-2">
+            <img src="{{ asset('images/sliding door 2.jpg') }}" alt="Retrofit Image 2" class="img-fluid rounded m-2">
         </div>
     </div>
 

@@ -37,23 +37,23 @@
 
 <div class="container py-5 retrofit-section">
     <div class="text-center mb-5">
-        <h1 class="display-5 retrofit-title">Revolving Door Retrofitting Services</h1>
+    <h1 class="display-5 retrofit-title">Sliding Door Retrofitting Services</h1>
         <p class="lead">Modernize. Enhance. Extend the Life of Your Investment.</p>
     </div>
 
     <div class="row mb-5 align-items-center">
         <div class="col-md-6">
-            <p>Is your revolving door outdated, inefficient, or not meeting today's safety and accessibility standards? Retrofitting is the smart, cost-effective solution to upgrade your existing revolving door without a full replacement.</p>
-            <p><strong>Sliding Doors</strong> specializes in retrofitting revolving doors for commercial, institutional, and hospitality properties. Whether you're looking to improve energy efficiency, upgrade aesthetics, integrate modern access control, or meet current building codes, our expert team delivers tailored solutions that extend the life of your entry systems.</p>
+            <p>Is your sliding door outdated, inefficient, or not meeting today's safety and accessibility standards? Retrofitting is the smart, cost-effective solution to upgrade your existing sliding door without a full replacement.</p>
+            <p><strong>Sliding Doors</strong> specializes in retrofitting sliding doors for commercial, institutional, and hospitality properties. Whether you're looking to improve energy efficiency, upgrade aesthetics, integrate modern access control, or meet current building codes, our expert team delivers tailored solutions that extend the life of your entry systems.</p>
         </div>
         <div class="col-md-6 d-flex flex-wrap justify-content-center">
-            <img src="{{ asset('images/retrofit-1.jpeg') }}" alt="Retrofit Image 1" class="img-fluid rounded m-2">
-            <img src="{{ asset('images/retrofit-2.jpeg') }}" alt="Retrofit Image 2" class="img-fluid rounded m-2">
+            <img src="{{ asset('storage/photos/sliding door.jpg') }}" alt="Retrofit Image 1" class="img-fluid rounded m-2">
+            <img src="{{ asset('storage/photos/sliding door 2.jpg') }}" alt="Retrofit Image 2" class="img-fluid rounded m-2">
         </div>
     </div>
 
     <div class="mb-5">
-        <h3>Why Retrofit Your Revolving Door?</h3>
+        <h3>Why Retrofit Your Sliding Door?</h3>
         <ul>
             <li><strong>Cost-Efficient:</strong> Saves money by reusing existing structural components.</li>
             <li><strong>Improved Performance:</strong> Add modern drive systems, sensors, and climate control integration.</li>
@@ -66,7 +66,7 @@
     <div class="mb-5">
         <h3>What We Can Retrofit</h3>
         <ul>
-            <li>Manual or automatic revolving doors</li>
+            <li>Manual or automatic sliding doors</li>
             <li>Drive mechanisms and control systems</li>
             <li>Canopies, glazing, and hardware</li>
             <li>Sensors, speed controls, and safety devices</li>
@@ -97,7 +97,7 @@
 
     <div class="text-center mt-5">
         <h4>Start Your Retrofit Project Today</h4>
-        <p>Contact us for a free on-site assessment and discover how a revolving door retrofit can improve your building’s performance, appearance, and compliance.</p>
+        <p>Contact us for a free on-site assessment and discover how a sliding door retrofit can improve your buildings performance, appearance, and compliance.</p>
         <a href="{{ route('contact') }}" class="btn btn-primary px-5 py-2">Request a Free Assessment</a>
     </div>
 </div>

@@ -55,14 +55,14 @@
                 <div class="col-lg-5 col-md-6 col-12 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase mb-3">Get A Quote</h6>
                     <h1 class="mb-5">Request A Free Quote!</h1>
-                    <p class="mb-5">
-                        Discover the ultimate in security and convenience with our state-of-the-art rolling shutters in Dubai. Perfect for both residential and commercial properties, our shutters offer unparalleled protection against harsh weather conditions, intruders, and noise. Designed to blend seamlessly with your property's aesthetics, our rolling shutters are easy to operate and maintain, ensuring long-lasting durability and peace of mind. Get a free quote today and enhance your property's safety and style with our premium rolling shutters.
+                        <p class="mb-5">
+                        Discover the ultimate in security and convenience with our high-performance rolling shutters and sliding door systems. Perfect for residential and commercial properties, our products offer protection, energy-efficiency, and smooth operation. Request a free quote for supply, installation, or maintenance.
                     </p>
                     <div class="d-flex align-items-center">
                         <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
-                        <div class="ps-4">
+                            <div class="ps-4">
                             <h6>Call for any query!</h6>
-                            <h3 class="text-primary m-0">+971 55 7474526</h3>
+                            <h3 class="text-primary m-0">+20 15 54923541</h3>
                         </div>
                     </div>
                 </div>
@@ -91,12 +91,12 @@
 
                         <p style="text-align: justify;">
                             <span style="font-weight: normal;">
-                                <strong>Sliding Doors</strong> is a leading provider of advanced entry systems and automation solutions across Dubai and the UAE. We specialize in the design, supply, and installation of state-of-the-art <strong>Revolving Doors</strong>—engineered to enhance security, efficiency, and architectural appeal in commercial and public spaces.
+                                    <strong>Sliding Doors</strong> is a leading provider of advanced entry systems and automation solutions across multiple regions. We specialize in the design, supply, and installation of state-of-the-art <strong>Sliding Doors</strong>—engineered to enhance security, efficiency, and architectural appeal in commercial and public spaces.
                             </span>
                         </p>
 
                         <p style="text-align: justify;">
-                            Our revolving doors are ideal for hotels, shopping malls, airports, corporate offices, and hospitals. They offer excellent climate control, smooth pedestrian flow, and a prestigious entrance experience. Built using durable materials and customizable to match your brand and building design, Mace ensures every installation meets international safety and operational standards.
+                            Our sliding doors are ideal for hotels, shopping malls, airports, corporate offices, and hospitals. They offer excellent climate control, smooth pedestrian flow, and a prestigious entrance experience. Built using durable materials and customizable to match your brand and building design, our installations meet international safety and operational standards.
                         </p>
 
                         <p style="text-align: justify;">
@@ -105,9 +105,9 @@
 
                         <ol>
                             <li style="text-align: justify;">
-                                <strong style="font-size: 16px;">Manual & Automatic Revolving Doors</strong>
+                                <strong style="font-size: 16px;">Manual & Automatic Sliding Doors</strong>
                                 <p style="text-align: justify;">
-                                    Tailored to your project's needs, our revolving doors are available in both manual and automatic versions, with a variety of diameters and finishes. Each unit is precision-engineered for quiet operation, safety, and aesthetic impact.
+                                    Tailored to your project's needs, our sliding doors are available in both manual and automatic versions, with a variety of finishes and configurations. Each unit is precision-engineered for quiet operation, safety, and aesthetic impact.
                                 </p>
                             </li>
 
@@ -121,7 +121,7 @@
                             <li style="text-align: justify;">
                                 <strong style="font-size: 16px;">Architectural Customization</strong>
                                 <p style="text-align: justify;">
-                                    From anodized aluminium to stainless steel cladding and glass configurations, we offer finishes that align with your design vision. Our revolving doors are as elegant as they are functional.
+                                    From anodized aluminium to stainless steel cladding and glass configurations, we offer finishes that align with your design vision. Our sliding doors are as elegant as they are functional.
                                 </p>
                             </li>
 
@@ -133,8 +133,8 @@
                             </li>
                         </ol>
 
-                        <p style="text-align: justify;">
-                            With fast response times, expert installation, and a commitment to service excellence, Sliding Doors continues to lead the way in building automation in Dubai. Contact us for a free consultation and explore how our revolving door solutions can elevate your project.
+                            <p style="text-align: justify;">
+                            With fast response times, expert installation, and a commitment to service excellence, Sliding Doors delivers trusted entrance systems worldwide. Contact us for a free consultation and explore how our sliding door solutions can elevate your project.
                         </p>
 
                     </div>
@@ -143,7 +143,7 @@
                 <div class="et_pb_module et_pb_code et_pb_code_0">
                     <div class="et_pb_code_inner">
                         <h1 style="text-align:center; font-size:5px; color:white;">
-                            Revolving Door Supplier Dubai – Sliding Doors
+                                Sliding Door Supplier – Sliding Doors
                         </h1>
                     </div>
                 </div>

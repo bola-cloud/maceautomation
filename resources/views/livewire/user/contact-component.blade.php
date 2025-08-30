@@ -11,25 +11,19 @@
                         <div class="contact-item d-flex align-items-center mb-3">
                             <i class="fa fa-phone text-primary me-3" aria-hidden="true" style="font-size: 1.5em;"></i>
                             <div class="d-flex flex-column">
-                                <h2 class="m-0"> +2 022 272 7352</h2>
-                                <h2 class="m-0"> +2 010 9898 4996</h2>
+                                <h2 class="m-0">+20 15 54923541</h2>
+                                <h2 class="m-0">+201555622169</h2>
                             </div>
                         </div>
 
                         <div class="contact-item d-flex align-items-center mb-3">
                             <i class="fa fa-envelope text-primary me-3" aria-hidden="true" style="font-size: 1.5em;"></i>
-                            <h2 class="m-0">info@example.com</h2>
+                            <h2 class="m-0">inifintesmart@gmail.com</h2>
                         </div>
 
                         <div class="et_pb_text_inner">
-                            <h3>We Are Available In:</h3>
-                            <ul>
-                                <li>Abu Dhabi</li>
-                                <li>Dubai</li>
-                                <li>Sharjah</li>
-                                <li>Ajman</li>
-                                <li>Ras Al Khaimah</li>
-                            </ul>
+                            <h3>Service Areas</h3>
+                            <p>We provide supply, installation, retrofit, maintenance and repair services for sliding doors and entrance automation systems. Contact us for a tailored quote and rapid site visit.</p>
                         </div>
 
                         <livewire:user.items.contact-component />
@@ -40,7 +34,7 @@
                 <div class="col-md-6 pe-lg-0 wow fadeInRight" data-wow-delay="0.1s">
                     <div class="position-relative h-100">
                         <iframe class="position-absolute w-100 h-100" style="object-fit: cover;"
-                            src="https://maps.google.com/maps?q=Dubai&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                            src="https://maps.google.com/maps?q=company+location&t=&z=13&ie=UTF8&iwloc=&output=embed"
                             frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0">
                         </iframe>
                     </div>
@@ -65,16 +59,16 @@
                     <div class="et_pb_text_inner">
                         <p style="text-align: justify;">
                             <span style="font-weight: normal;">
-                                <strong>Sliding Doors</strong> is a leading provider of high-end entrance automation systems across the UAE. We specialize in the design, supply, and installation of <strong>Revolving Doors</strong> that enhance building security, energy efficiency, and architectural beauty. Trusted by commercial properties, government institutions, and high-traffic public venues, our solutions are engineered to meet the most demanding access requirements.
+                                <strong>Sliding Doors</strong> is a leading provider of high-end entrance automation systems across multiple regions and markets. We specialize in the design, supply, and installation of <strong>Sliding Doors</strong> that enhance building security, energy efficiency, and architectural beauty. Trusted by commercial properties, institutions, and high-traffic public venues, our solutions are engineered to meet the most demanding access requirements.
                             </span>
                         </p>
 
                         <p style="text-align: justify;">
-                            Our revolving doors are known for their precision, reliability, and durability. We offer customizable systems with stainless steel, aluminium, and glass finishes, along with advanced features such as integrated access control, air curtains, and emergency breakout options.
+                            Our sliding doors are known for their precision, reliability, and durability. We offer customizable systems with stainless steel, aluminium, and glass finishes, along with advanced features such as integrated access control, air curtains, and emergency breakout options.
                         </p>
 
                         <p style="text-align: justify;">
-                            In addition to revolving doors, Mace also offers a range of intelligent automation products designed to meet modern infrastructure needs:
+                            In addition to sliding doors, we also offer a range of intelligent automation products designed to meet modern infrastructure needs:
                         </p>
 
                         <ol>
@@ -88,7 +82,7 @@
                             <li style="text-align: justify;">
                                 <strong style="font-size: 16px;">Smart Parking Solutions</strong>
                                 <p style="text-align: justify;">
-                                    Mace's automatic parking systems use advanced controls to optimize space utilization and traffic flow. Perfect for residential towers, business centers, and retail hubs, our systems reduce congestion and eliminate manual management.
+                                    Our automatic parking systems use advanced controls to optimize space utilization and traffic flow. Perfect for residential towers, business centers, and retail hubs, these systems reduce congestion and simplify management.
                                 </p>
                             </li>
 
@@ -116,7 +110,7 @@
                 <div class="et_pb_module et_pb_code et_pb_code_0">
                     <div class="et_pb_code_inner">
                         <h1 style="text-align:center; font-size:5px; color:white;">
-                            Sliding Doors – Leading Revolving Door & Access Solution Provider in Dubai
+                            Sliding Doors  Leading Sliding Door & Access Solution Provider
                         </h1>
                     </div>
                 </div>

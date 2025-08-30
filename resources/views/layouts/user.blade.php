@@ -4,13 +4,35 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>@yield("title", 'Sliding Doors')</title>
+        <title>@yield('title', 'Sliding Doors — Automatic & Commercial Sliding Door Solutions')</title>
 
-    <meta name="google-site-verification" content="wxPbchaiVF2btLHd1FIf1UtwWSlX7WoUX3eZ8KJa8ew" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="keywords" content="Revolving Doors Saudi Arabian, Automatic Revolving Doors, Entrance Automation KSA, Sliding Doors, High-Security Entry Systems, Sliding Doors, Swing Doors, Automatic Door Solutions, Commercial Building Access, Smart Access Doors">
+        <meta name="google-site-verification" content="wxPbchaiVF2btLHd1FIf1UtwWSlX7WoUX3eZ8KJa8ew" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta name="keywords" content="sliding doors, automatic sliding doors, commercial sliding doors, glass sliding doors, automatic entrance doors, sliding door suppliers, sliding door installation, sliding door repair, sliding door retrofit, storefront sliding doors, energy-efficient entrance doors, access control integration, safety sensors">
 
-    <meta name="description" content="@yield('desc', 'Sliding Doors provides premium revolving doors and entrance automation solutions in Dubai and across the UAE. We specialize in secure, energy-efficient, and elegant access systems for commercial and public buildings.')">
+        <meta name="description" content="@yield('desc', 'Sliding Doors provides automatic and commercial sliding door solutions. We offer supply, installation, retrofit, maintenance and repair services for sliding and entrance automation systems. Trusted for performance, safety, and energy efficiency.')">
+
+        <!-- Open Graph / Social -->
+        <meta property="og:title" content="@yield('title', 'Sliding Doors — Automatic & Commercial Sliding Door Solutions')" />
+        <meta property="og:description" content="@yield('desc', 'Sliding Doors provides automatic and commercial sliding door solutions. We offer supply, installation, retrofit, maintenance and repair services for sliding and entrance automation systems.')" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="{{ url()->current() }}" />
+        <meta property="og:image" content="{{ asset('logo/logo.png') }}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="@yield('title', 'Sliding Doors — Automatic & Commercial Sliding Door Solutions')" />
+        <meta name="twitter:description" content="@yield('desc', 'Sliding Doors provides automatic and commercial sliding door solutions. We offer supply, installation, retrofit, maintenance and repair services for sliding and entrance automation systems.')" />
+
+        <!-- Structured Data -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Sliding Doors",
+            "url": "{{ url('/') }}",
+            "logo": "{{ asset('logo/logo.png') }}",
+            "sameAs": []
+        }
+        </script>
 
     <link rel="canonical" href="{{ url()->current() }}">
     <!-- Favicon -->
@@ -86,10 +108,10 @@ img.Company_Logo {
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top p-0">
         <a href="{{route('home_user')}}" class="navbar-brand bg-primary d-flex align-items-center justify-content-between px-1   px-lg-5">
             <div class="d-flex flex-column align-items-start">
-                <h2 class="mb-2 text-white">Sliding Doors</h2>
-                <span class="text-white" style="font-size: 0.75em;">Mace Leaders in Automation</span>
+            <h2 class="mb-2 text-white">Sliding Doors</h2>
+        <span class="text-white" style="font-size: 0.75em;">Leaders in Entrance Automation</span>
             </div>
-            <img  class="Company_Logo" src="{{ asset('logo/mace.jpeg') }}" alt="" style="height: 50px;">
+            <img  class="Company_Logo" src="{{ asset('logo/sliding logo.png') }}" alt="" style="height: 50px;">
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -115,8 +137,8 @@ img.Company_Logo {
                 <a href="{{ route('contact') }}" class="nav-item nav-link {{ Request::routeIs('contact') ? 'active' : '' }}">Contact</a>
             </div>
             <div class="d-none d-lg-block pe-lg-5">
-                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-phone text-primary me-3" aria-hidden="true"></i>+971 99999999</h4>
-                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-envelope text-primary me-3" aria-hidden="true"></i>info@example.com</h4>
+                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-phone text-primary me-3" aria-hidden="true"></i>+20 15 54923541</h4>
+                <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-envelope text-primary me-3" aria-hidden="true"></i>inifintesmart@gmail.com</h4>
             </div>
         </div>
     </nav>
@@ -135,17 +157,19 @@ img.Company_Logo {
                     <h4 class="text-light mb-4">Address</h4>
                     <p class="mb-2">
                         <i class="fa fa-map-marker-alt me-3"></i>
-                        Office 101, Business Center, Riyadh, KSA
+                        Office 101, Business Center
                     </p>
 
                     <p class="mb-2">
                         <i class="fa fa-phone-alt me-3"></i>
-                        +971 99999999
+                        +20 15 54923541<br>
+                        <i class="fa fa-phone-alt me-3"></i>
+                        +201555622169
                     </p>
 
                     <p class="mb-2">
                         <i class="fa fa-envelope me-3"></i>
-                        contact@maceautomation.com
+                        inifintesmart@gmail.com
                     </p>
 
                     <div class="d-flex pt-2">

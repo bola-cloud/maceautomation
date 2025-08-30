@@ -15,7 +15,7 @@
                         <div class="ms-4">
                             <h5>Experienced Team
                             </h5>
-                            <p class="mb-0">We have been working with MNC Standard companies in UAE & all major countries on last ten years. Site Visit Within 1 Hour
+                            <p class="mb-0">We have been working with multinational clients and major contractors for over ten years. Site visits are available on request.
 
                             </p>
                         </div>
@@ -33,7 +33,7 @@
                         <i class="fa fa-headphones text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>Telephone Support</h5>
-                            <p class="mb-0">Our well-qualified technical experts are always ready to serve services in UAE, Middle East & Africa. We offer the cheapest price guaranteed. Call us at +971 50 471 9620.</p>
+                            <p class="mb-0">Our well-qualified technical experts are ready to serve your project. Contact us for pricing and scheduling.</p>
                         </div>
                     </div>
 

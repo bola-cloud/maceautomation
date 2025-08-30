@@ -156,13 +156,13 @@
                     <h6 class="text-secondary text-uppercase mb-3">Get A Quote</h6>
                     <h1 class="mb-5">Request A Free Quote!</h1>
                     <p class="mb-5">
-                        Discover the ultimate in security and convenience with our state-of-the-art rolling shutters in Dubai. Perfect for both residential and commercial properties, our shutters offer unparalleled protection against harsh weather conditions, intruders, and noise. Designed to blend seamlessly with your property's aesthetics, our rolling shutters are easy to operate and maintain, ensuring long-lasting durability and peace of mind. Get a free quote today and enhance your property's safety and style with our premium rolling shutters.
+                        Discover the ultimate in security and convenience with our state-of-the-art rolling shutters and sliding door systems. Perfect for residential and commercial properties, our shutters offer protection, energy-efficiency, and smooth operation. Request a free quote for supply, installation, or maintenance.
                     </p>
                     <div class="d-flex align-items-center">
                         <i class="fa fa-phone text-primary me-3 bg-primary p-3 text-white"></i>
                         <div class="ps-4">
                             <h6>Call for any query!</h6>
-                            <h3 class="text-primary m-0"><a href="tel:+971557474526" class="text-primary">+971 55 7474 526</a></h3>
+                            <h3 class="text-primary m-0"><a href="tel:+0000000000" class="text-primary">+000 000 0000</a></h3>
                         </div>
                     </div>
                 </div>

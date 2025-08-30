@@ -28,8 +28,8 @@
     <div class="container py-5">
         <h2 class="text-center mb-4">Why Choose Us</h2>
         <p class="text-center mb-5">
-            At <strong>Sliding Doors</strong>, we’re proud to be pioneers in the region—the first company to manufacture revolving doors in the Arab world and the Middle East. Our comprehensive product range includes <strong>Revolving Doors</strong>, <strong>Swing Doors</strong>, <strong>Sliding Doors</strong>, and <strong>Speed Lane Security Turnstiles</strong>, all designed for durability, precision, and long-term performance. <br><br>
-            We combine premium quality with competitive pricing, ensuring top-tier engineering without the high cost. With fast access to spare parts and responsive support, our clients enjoy reliable service long after installation. Operating in both Egypt and Saudi Arabia, our presence is strong and growing, driven by a global vision. That’s why major industry leaders trust us for projects where security, efficiency, and design matter most.
+            At <strong>Sliding Doors</strong>, we provide advanced entrance systems globally. Our product range focuses on <strong>Sliding Doors</strong>, <strong>Swing Doors</strong>, and <strong>Speed Lane Security Turnstiles</strong>, all designed for durability, precision, and long-term performance. <br><br>
+            We combine premium quality with competitive pricing, ensuring top-tier engineering and responsive support. Our international teams support projects of all sizes, delivering solutions where security, efficiency, and design matter most.
         </p>
 
         <div class="row g-4 text-center">
@@ -39,7 +39,7 @@
                         <i class="fa fa-lightbulb feature-icon"></i>
                         <h5 class="mb-3">Design Assistance</h5>
                         <p>
-                            We help architects and developers design integrated access solutions using the latest standards in revolving, sliding, swing, and turnstile technologies.
+                            We help architects and developers design integrated access solutions using the latest standards in sliding, swing, and turnstile technologies.
                         </p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         <i class="fa fa-box-open feature-icon"></i>
                         <h5 class="mb-3">Sales & Supply</h5>
                         <p>
-                            We supply high-performance entrance systems across the UAE and beyond—available in a variety of configurations and finishes to meet every project need.
+                            We supply high-performance entrance systems across multiple regions—available in a variety of configurations and finishes to meet every project need.
                         </p>
                     </div>
                 </div>
@@ -89,7 +89,7 @@
                         <i class="fa fa-wrench feature-icon"></i>
                         <h5 class="mb-3">Repair Services</h5>
                         <p>
-                            We provide fast and reliable repair services for revolving, sliding, and swing doors, as well as turnstiles—ensuring your facility is always accessible and secure.
+                            We provide fast and reliable repair services for sliding and swing doors, as well as turnstiles—ensuring your facility is always accessible and secure.
                         </p>
                     </div>
                 </div>

@@ -50,7 +50,7 @@
 
 
     <div class="container-fluid p-0 position-relative d-flex justify-content-center" style="height: 500px; overflow: hidden; ">
-        <img src="{{ Storage::url($shutter->photos->first()->image_url) }}"
+    <img src="{{ asset('images/' . $shutter->photos->first()->image_url) }}"
             class="h-100 object-fit-cover"
             alt="{{ $shutter->name }}"
             style="filter: brightness(60%); width: 90%; height: 100%;background-position: center;">
@@ -83,7 +83,7 @@
                                 <div class="image-grid">
                                     @foreach($photosshuttersapplication as $photo)
                                         <div class="image-item">
-                                            <img src="{{ Storage::url($photo->image_url) }}" alt="{{ $shutter->name }}">
+                                            <img src="{{ asset('images/' . $photo->image_url) }}" alt="{{ $shutter->name }}">
                                         </div>
                                     @endforeach
 
@@ -103,7 +103,7 @@
                                 <div class="image-grid">
 
                                     @foreach($photosshutterslast as $photo)
-                                    <div class="image-item"><img src="{{ Storage::url($photo->image_url) }}" alt="{{$shutter->name}}"></div>
+                                    <div class="image-item"><img src="{{ asset('images/' . $photo->image_url) }}" alt="{{$shutter->name}}"></div>
                                     @endforeach
 
                                 </div>
@@ -133,7 +133,7 @@
 
                                 <div class="image-grid {{ $photosshuttershardware->count() == 1 ? 'single-image' : '' }}">
                                     @foreach($photosshuttershardware as $photo)
-                                        <div class="image-item"><img class="auto" src="{{ Storage::url($photo->image_url) }}" alt="{{ $shutter->name }}"></div>
+                                        <div class="image-item"><img class="auto" src="{{ asset('images/' . $photo->image_url) }}" alt="{{ $shutter->name }}"></div>
                                     @endforeach
                                 </div>
                             </div>

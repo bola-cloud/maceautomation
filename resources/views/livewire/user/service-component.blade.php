@@ -77,7 +77,7 @@
                 <a class="clickable" href="{{ route('specific-shutter', ['slug' => Str::slug($shutter->name)]) }}">
                     <div class="service-item p-4">
                         @if($shutter->photos->first())
-                            <img class="img-fluid fixed-size" src="{{ Storage::url($shutter->photos->first()->image_url) }}" alt="{{ $shutter->name }}">
+                            <img class="img-fluid fixed-size" src="{{ asset('images/' . $shutter->photos->first()->image_url) }}" alt="{{ $shutter->name }}">
                         @endif
                         <h4 class="mt-3 mb-2">{{ $shutter->name_out }}</h4>
                         <p class="desc-truncate">{{ strip_tags($shutter->desc_out) }}</p>

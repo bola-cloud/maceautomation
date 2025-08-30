@@ -5,7 +5,7 @@
         }
     </style>
 
-    <div class="container-fluid page-header py-5" style="background-image: url('{{ Storage::url("photos/bxtldVZOooHB186xcs6I21nMDzDDYZykNQSKM5Gi.jpg") }}'); background-size: cover; background-position: center;">
+    <div class="container-fluid page-header py-5" style="background-image: url('{{ asset("images/photos/bxtldVZOooHB186xcs6I21nMDzDDYZykNQSKM5Gi.jpg") }}'); background-size: cover; background-position: center;">
         <div class="container py-5">
             <h1 class="display-3 mb-3 animated slideInDown text-primary" >About Us</h1>
         </div>

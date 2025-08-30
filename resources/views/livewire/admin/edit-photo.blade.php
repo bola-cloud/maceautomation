@@ -41,7 +41,7 @@
             @else
                 <div class="mt-2">
                     Current Photo:
-                    <img src="{{ Storage::url($image) }}" width="100" class="img-thumbnail">
+                    <img src="{{ asset('images/' . $image) }}" width="100" class="img-thumbnail">
                 </div>
             @endif
         </div>
